@@ -3,6 +3,7 @@
 **Auto Join Ego** là một ứng dụng giúp tự động tham gia phòng trong game **EgoPlay**. Ứng dụng sẽ tự động tìm và chọn một phòng trống, sau đó truy cập vào phòng có số hiệu mà bạn đã chỉ định từ trước.
 
 ---
+![Screenshot 2025-05-17 200307](https://github.com/user-attachments/assets/b5255b6b-69f6-44b2-907f-05668281865b)
 
 ## 🚀 Tính năng chính
 
