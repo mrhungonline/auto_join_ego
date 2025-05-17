@@ -17,7 +17,8 @@
 ### 1. Tải và chạy ứng dụng
 
 - Truy cập [GitHub Releases](https://github.com/mrhungonline/auto_join_ego/releases) để tải phiên bản mới nhất.
-- Tải file `autojoinego.exe` về máy.
+- Tải file `.rar` (ví dụ: `autojoinego_v1.0.rar`) về máy.
+- Giải nén file `.rar` để lấy file `autojoinego.exe`.
 - Nhấn chuột phải vào `autojoinego.exe` và chọn **"Run as administrator"** (*Chạy với quyền quản trị*) để đảm bảo ứng dụng hoạt động đúng cách.
 - Nhập số phòng bạn muốn tham gia để bắt đầu quá trình tự động vào phòng.
 
