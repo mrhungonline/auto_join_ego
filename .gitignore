@@ -1,0 +1,28 @@
+# Bỏ qua thư mục build chứa file xuất bản
+output/
+
+# Bỏ qua thư mục biên dịch Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Bỏ môi trường ảo
+env/
+venv/
+.venv/
+
+# Bỏ file log/tạm
+*.log
+*.tmp
+
+# Bỏ file build
+build/
+dist/
+*.egg-info/
+
+# Bỏ file exe
+*.exe
+
+# Bỏ tệp cấu hình riêng tư (tuỳ chọn)
+*.env
+config.ini
